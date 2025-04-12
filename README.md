@@ -26,7 +26,7 @@ Simply visit a Planet Minecraft link on the desired skin **by clicking on its im
             <a href="https://github.com/Ceterai/Enternia/wiki/Security-Set">Security Set</a>
             </li>
             <li>
-            Space Station 14: <img src="https://raw.githubusercontent.com/Ceterai/AltaSS14Sprites/refs/heads/main/skins/security/icons/skin.png" loading="lazy" alt="Alta">
+            Space Station 14: <img src="https://raw.githubusercontent.com/Ceterai/AltaSS14Sprites/refs/heads/main/skins/security/full/icon.png" loading="lazy" alt="Alta">
             <a href="https://github.com/Ceterai/AltaSS14Sprites?tab=readme-ov-file#-alta-security-set">V1V Set</a>
             </li>
         </ul>
